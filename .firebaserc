@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "practice-cicd-saadman"
+    "default": "practice-cicd-saadman",
+    "test": "practice-cicd-saadman"
   }
 }
